@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SimpleApp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="fragment_a_greeting">Hello This is fragment A</string>
+    <string name="fragment_b_greeting">Hello This is fragment B</string>
+
+</resources>
